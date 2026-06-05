@@ -1,12 +1,13 @@
 Hi there! 👋
 
-I'm **Cara Zeng**, a passionate Computer Science master's student at Northeastern University. I love exploring new technologies and solving challenging problems through code!
+I'm **Cara Zeng**, a passionate Computer Science master's student at Northeastern University. 
+I love exploring new technologies and solving challenging problems through code!
 
 ## About Me
 
 My primary focus is on software development and machine learning. I enjoy working on innovative projects that challenge my skills and expand my knowledge.
 
-Now I'm a software engineer intern at Suune and we are building a freelance platform for visual artists.
+Now I'm a intern at TD Bank under Global technology & Solutions team.
 
 ## Connect with Me
 https://www.linkedin.com/in/cara-zeng-535b53324/
